@@ -1,0 +1,2 @@
+# raices
+metodo punto fijo
